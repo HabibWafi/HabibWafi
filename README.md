@@ -5,7 +5,7 @@
 
 <!-- Header: Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Full-Stack+Developer;Blockchain+%26+AI+Builder;Government+Tech+Enthusiast;Data+Analyst+%26+Scraper" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+%5BHabibullah+Hibatul+Wafi%5D+%F0%9F%91%8B;Full-Stack+Developer;Blockchain+%26+AI+Builder;Government+Tech+Enthusiast;Data+Analyst+%26+Scraper" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -23,8 +23,8 @@
 - 📱 Crafting **Android mobile apps** with Kotlin
 - 🤖 Exploring **AI agent integration** and LLM pipelines
 - 📊 Working with data: **Python, R**, web scraping, and analytics dashboards
-- 📫 Reach me at: **habibwafi96@gmail.com** &nbsp;|&nbsp; 🌐 **[Your Portfolio Link]**
-- 📍 **[Your Location]**, Indonesia
+- 📫 Reach me at: **habibwafi96@gmail.com** &nbsp;|&nbsp; 🌐 **https://portofolio-v2-sable-seven.vercel.app**
+- 📍 **[Musi Rawas]**, Indonesia
 
 ---
 
